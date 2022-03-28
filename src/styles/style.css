@@ -1,0 +1,9 @@
+body {
+    background-image: url('../images/bcgimage2.png');
+    box-sizing: border-box;
+    color: rgb(213, 247, 247);
+}
+
+a{
+    text-decoration: none;
+}
