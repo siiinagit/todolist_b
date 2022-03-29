@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.6dfb26bc.css","mappings":"AAAA,KACI,iFAAgD,CAChD,qBAAsB,CACtB,aACJ,CAEA,EACI,oBACJ","sources":["styles/style.css"],"sourcesContent":["body {\r\n    background-image: url('../images/bcgimage2.png');\r\n    box-sizing: border-box;\r\n    color: rgb(213, 247, 247);\r\n}\r\n\r\na{\r\n    text-decoration: none;\r\n}"],"names":[],"sourceRoot":""}
